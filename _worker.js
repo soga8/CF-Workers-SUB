@@ -2,7 +2,7 @@ let mytoken = 'auto'; // token configuration
 let BotToken = ''; // Telegram Bot Token
 let ChatID = ''; // Telegram Chat ID
 let TG = 0; // Telegram notification switch
-let FileName = 'CF-Workers-SUB';
+let FileName = 'CF-Workers-SUB-0.033.pp.ua';
 let SUBUpdateTime = 6; // subscription update interval in hours
 
 // Nodes and subscription links
