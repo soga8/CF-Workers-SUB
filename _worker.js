@@ -7,9 +7,7 @@ let SUBUpdateTime = 6; // subscription update interval in hours
 
 // Nodes and subscription links
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@[2606:4700:4700::1111]:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#Example_IPv6_Node
-https://sub.xf.free.hr/auto
-https://hy2sub.pages.dev
+https://dy.300111.xyz/sub/v2ray/YXdz
 `
 
 let urls = []; // additional subscription links
